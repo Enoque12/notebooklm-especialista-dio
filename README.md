@@ -113,4 +113,8 @@ O desenvolvimento da literacia e educação financeira proporciona benefícios s
 <img src=assets/quest2font3.png>
 
 ---
+## Link do NotebookLM
 
+```text
+https://notebook.google.com/notebook/f15b0a94-a9aa-4c90-a125-b5f71b6511dd
+```
