@@ -18,3 +18,5 @@
 - https://pt.wikipedia.org/wiki/Educa%C3%A7%C3%A3o_financeira
 
 Justificação: Escolhe cada uma dessas fontes de video e texto por conta da sua relevância bem como pelas sugestões que de antemão haviam me dado.
+
+**Diretriz:** A diretriz dada ao notebookLM foi a de se comportar como um especialista em educação financeira
